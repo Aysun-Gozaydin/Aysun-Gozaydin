@@ -22,10 +22,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## Merhaba, ben Aysun 👋
 
 Arka uç geliştirmeye odaklanan ve siber güvenlik alanına ilgisi giderek artan bir **Yazılım Mühendisliği öğrencisiyim**.
@@ -36,9 +32,287 @@ Temiz, düzenli ve bakımı kolay kod yazmaya; anlaşılır, geliştirilebilir v
 
 Teknik ilgi alanlarım arasında **backend sistem tasarımı, REST API geliştirme, SQL veri modelleme, sistem analizi, veri koruma ve güvenli yazılım geliştirme** yer alıyor.
 
-</td>
-<td width="40%" valign="top">
+---
 
+## Professional Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logoColor=FF9900&labelColor=0D1117" />
+<br/>
+Java, Spring Boot, REST API
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/System%20Analysis-0D1117?style=for-the-badge&logoColor=FF9900&labelColor=0D1117" />
+<br/>
+UML, ER, Yazılım Tasarımı
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logoColor=FF9900&labelColor=0D1117" />
+<br/>
+SQL, PostgreSQL, Veri Modelleme
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logoColor=FF9900&labelColor=0D1117" />
+<br/>
+Siber Güvenlik Temelleri
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-0D1117?style=for-the-badge&logo=html5&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+
+</div>
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Yeşil-Zincir
+
+**Blockchain + IoT + QR tabanlı gıda izlenebilirlik sistemi**
+
+Gıda ürünlerinin üretimden tüketiciye kadar olan sürecini daha şeffaf hale getirmeyi amaçlayan proje. QR tarama, ürün geçmişi, üretim koşulları, sensör verileri ve risk senaryoları üzerine kurgulandı.
+
+**Focus:** Blockchain mantığı, IoT sensör verisi, QR deneyimi, ürün güvenliği, UI/UX
+
+<br/>
+
+<img src="https://img.shields.io/badge/Blockchain-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/QR-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logoColor=FF9900" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 EduConnect
+
+**Çevrimiçi eğitim platformu**
+
+Öğrenci ve öğretmen eşleştirme, ders rezervasyonu ve backend mimarisi üzerine geliştirilen eğitim platformu.
+
+**Focus:** Java, Spring Boot, REST API, MVC, Katmanlı Mimari
+
+<br/>
+
+<a href="https://github.com/Aysun-Gozaydin/EduConnect">
+<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ In-Memory Task Scheduler
+
+**Java tabanlı görev zamanlayıcı**
+
+Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desenlerini kullanan backend uygulaması.
+
+**Focus:** Java, OOP, Builder Pattern, Observer Pattern
+
+<br/>
+
+<a href="https://github.com/Aysun-Gozaydin/in-memory-task-scheduler">
+<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Swaply
+
+**İkinci el ürün alım-satım platformu**
+
+İkinci el ürün pazaryeri platformu için arayüz tasarımı ve sistem mimarisi üzerine hazırlanmış UI/UX tasarım projesi.
+
+**Focus:** Figma, UI/UX, kullanıcı akışı, sistem tasarımı
+
+<br/>
+
+<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/UI%20Design-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/UX%20Flow-0D1117?style=flat-square&logoColor=FF9900" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ LMS Database Project
+
+**Öğrenci ve ders yönetimi için veritabanı projesi**
+
+Öğrenci ve ders yönetimini kapsayan ilişkisel veritabanının tasarımı ve geliştirilmesi üzerine hazırlanmış proje.
+
+**Focus:** SQL, ER diyagramı, ilişkisel modelleme, veritabanı tasarımı
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/ER%20Diagram-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Database%20Design-0D1117?style=flat-square&logoColor=FF9900" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🚆 T-MES Lite
+
+**TCDD temalı mesai ve vardiya takip sistemi**
+
+Çalışanların planlı vardiyalarını görmesi, mesai başlangıç/bitiş istekleri göndermesi ve yöneticilerin onay sürecini takip etmesi için tasarlanan sistem.
+
+**Focus:** Takvim görünümü, onay akışı, rol bazlı yapı, Spring Boot
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Workflow-0D1117?style=flat-square&logoColor=FF9900" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Community & Leadership
+
+<table>
+<tr>
+<td width="24%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/PythianGo-0D1117?style=for-the-badge&logoColor=FF9900" />
+</td>
+<td width="76%" valign="top">
+
+### PythianGo Digital Career Platform Campus Ambassador
+
+**İnönü Üniversitesi Kampüs Temsilcisi**
+
+Kariyer, eğitim, staj ve teknoloji odaklı fırsatları üniversite öğrencileriyle buluşturmaya yönelik kampüs temsilciliği rolü.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certificates & Learning Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Cybersecurity
+
+<img src="https://img.shields.io/badge/Linux%20Foundation-0D1117?style=for-the-badge&logo=linuxfoundation&logoColor=FF9900" />
+
+**Cybersecurity Essentials**  
+The Linux Foundation, 2026
+
+<br/>
+
+<img src="https://img.shields.io/badge/IBM-0D1117?style=for-the-badge&logo=ibm&logoColor=FF9900" />
+
+**Cybersecurity Fundamentals**  
+IBM, 2026
+
+</td>
+<td width="33%" valign="top">
+
+### Artificial Intelligence & Python
+
+<img src="https://img.shields.io/badge/Techcareer.net-0D1117?style=for-the-badge&logoColor=FF9900" />
+
+**Python ile Yapay Zeka I**  
+Techcareer.net, 2025
+
+<br/>
+
+<img src="https://img.shields.io/badge/Miuul-0D1117?style=for-the-badge&logoColor=FF9900" />
+
+**Yapay Zeka Mini Eğitim Kampı**  
+Miuul, 2025
+
+<br/>
+
+<img src="https://img.shields.io/badge/BTK%20Akademi-0D1117?style=for-the-badge&logoColor=FF9900" />
+
+**Python Programlama Dili**  
+BTK Akademi, 2025
+
+</td>
+<td width="33%" valign="top">
+
+### Career & Technology
+
+<img src="https://img.shields.io/badge/Coderspace-0D1117?style=for-the-badge&logoColor=FF9900" />
+
+**Garanti BBVA Genç Yeni Nesil Kariyer Okulu**  
+Teknoloji Serisi, 2025
+
+<br/>
+
+<img src="https://img.shields.io/badge/PythianGo-0D1117?style=for-the-badge&logoColor=FF9900" />
+
+**Campus Ambassador**  
+İnönü Üniversitesi
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aysun-Gozaydin&show_icons=true&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&bg_color=0D1117&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysun-Gozaydin&layout=compact&title_color=FF9900&text_color=E6EDF3&bg_color=0D1117&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building with structure, learning with curiosity.
+
+Backend tarafında sağlam temel, veri tarafında düzenli modelleme, siber güvenlik tarafında öğrenme merakı.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0D1117&text=Thanks%20for%20visiting&fontColor=FF9900&fontSize=18" />
+
+</div>
 ```java
 public class Aysun {
     String university = "İnönü University";
