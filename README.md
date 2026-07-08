@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0D1117&text=Aysun%20G%C3%B6zayd%C4%B1n&fontColor=FF9900&fontSize=36&fontAlignY=42&desc=Software%20Engineering%20Student%20%7C%20Backend%20Development%20%7C%20Cybersecurity%20Curious&descAlignY=72&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0D1117&text=Aysun%20G%C3%B6zayd%C4%B1n&fontColor=FF9900&fontSize=36&fontAlignY=42&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi%20%7C%20Backend%20Geli%C5%9Ftirme%20%7C%20Siber%20G%C3%BCvenlik%20Merak%C4%B1&descAlignY=72&descSize=14" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=FF9900&center=true&vCenter=true&width=760&lines=Merhaba%2C+ben+Aysun+%F0%9F%91%8B;Backend+Development+%7C+Java+%7C+Spring+Boot;SQL%2C+UML+ve+Sistem+Analizi;Siber+g%C3%BCvenlik+ve+g%C3%BCvenli+sistemlere+merakl%C4%B1y%C4%B1m;Projelerle+%C3%B6%C4%9Frenen+bir+Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FF9900&center=true&vCenter=true&width=820&lines=Merhaba%2C+ben+Aysun+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisiyim;Java+ve+Spring+Boot+ile+backend+geli%C5%9Ftiriyorum;SQL%2C+UML+ve+sistem+analizi+ile+projelerimi+tasarl%C4%B1yorum;Siber+g%C3%BCvenlik+temellerimi+g%C3%BC%C3%A7lendirmeye+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;Kamp%C3%BCs+temsilcili%C4%9Fi+ve+projelerle+aktif+%C3%B6%C4%9Freniyorum" />
 
 <br/><br/>
 
 <a href="mailto:aysungozaydin@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9900&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/E--posta-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9900&labelColor=0D1117" />
 </a>
 <a href="https://www.linkedin.com/in/aysun-gozaydin-975707322">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF9900&labelColor=0D1117" />
@@ -24,54 +24,53 @@
 
 ## Merhaba, ben Aysun 👋
 
-Arka uç geliştirmeye odaklanan ve siber güvenlik alanına ilgisi giderek artan bir **Yazılım Mühendisliği öğrencisiyim**.
+İnönü Üniversitesi **Yazılım Mühendisliği** öğrencisiyim.  
+Backend geliştirme, sistem analizi, veritabanı tasarımı ve yazılım mimarisi alanlarında kendimi geliştiriyorum.
 
-Yazılım mimarisi, sistem analizi, veritabanı tasarımı ve güvenli geliştirme yaklaşımlarının bir araya geldiği akademik ve proje tabanlı çalışmalarda yer almaktan hoşlanıyorum.
+Projelerimde yalnızca çalışan bir yapı kurmaya değil, aynı zamanda **anlaşılır, sürdürülebilir ve geliştirilebilir** sistemler tasarlamaya önem veriyorum. Java, Spring Boot, REST API, SQL, UML ve katmanlı mimari üzerine çalışıyorum.
 
-Temiz, düzenli ve bakımı kolay kod yazmaya; anlaşılır, geliştirilebilir ve iyi yapılandırılmış sistemler tasarlamaya önem veriyorum.
-
-Teknik ilgi alanlarım arasında **backend sistem tasarımı, REST API geliştirme, SQL veri modelleme, sistem analizi, veri koruma ve güvenli yazılım geliştirme** yer alıyor.
+Siber güvenlik alanına da ilgi duyuyorum. Özellikle veri koruma, güvenli sistem tasarımı ve yazılım geliştirme süreçlerinde güvenlik bakış açısını öğrenmeye çalışıyorum.
 
 ---
 
-## Professional Focus
+## İlgi Alanlarım
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### Backend
+<img src="https://img.shields.io/badge/Backend%20Geli%C5%9Ftirme-0D1117?style=for-the-badge&logo=springboot&logoColor=FF9900" />
 
 Java  
 Spring Boot  
 REST API  
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### System Analysis
+<img src="https://img.shields.io/badge/Sistem%20Analizi-0D1117?style=for-the-badge&logoColor=FF9900" />
 
 UML  
-ER Diagram  
-Software Design  
+ER Diyagramı  
+Yazılım Tasarımı  
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### Database
+<img src="https://img.shields.io/badge/Veritaban%C4%B1-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF9900" />
 
 SQL  
 PostgreSQL  
-Data Modeling  
+Veri Modelleme  
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### Security
+<img src="https://img.shields.io/badge/Siber%20G%C3%BCvenlik-0D1117?style=for-the-badge&logo=linux&logoColor=FF9900" />
 
-Cybersecurity Basics  
-Data Protection  
-Secure Systems  
+Temel Güvenlik  
+Veri Koruma  
+Güvenli Sistemler  
 
 </td>
 </tr>
@@ -79,7 +78,7 @@ Secure Systems
 
 ---
 
-## Technical Stack
+## Kullandığım Teknolojiler
 
 <div align="center">
 
@@ -100,11 +99,13 @@ Secure Systems
 
 ---
 
-## Selected Projects
+## Öne Çıkan Projeler
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=Ye%C5%9Fil-Zincir&fontColor=FF9900&fontSize=22" />
 
 ### 🌱 Yeşil-Zincir
 
@@ -112,17 +113,19 @@ Secure Systems
 
 Gıda ürünlerinin üretimden tüketiciye kadar olan sürecini daha şeffaf hale getirmeyi amaçlayan proje. QR tarama, ürün geçmişi, üretim koşulları, sensör verileri ve risk senaryoları üzerine kurgulandı.
 
-**Focus:** Blockchain logic, IoT sensor data, QR experience, product safety, UI/UX
+**Odak:** Blockchain mantığı, IoT sensör verisi, QR deneyimi, ürün güvenliği, arayüz tasarımı
 
 <br/>
 
 <img src="https://img.shields.io/badge/Blockchain-0D1117?style=flat-square&logo=blockchaindotcom&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/QR-0D1117?style=flat-square&logo=qrcode&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logo=figma&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Aray%C3%BCz%20Tasar%C4%B1m%C4%B1-0D1117?style=flat-square&logo=figma&logoColor=FF9900" />
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=EduConnect&fontColor=FF9900&fontSize=22" />
 
 ### 🎓 EduConnect
 
@@ -130,12 +133,12 @@ Gıda ürünlerinin üretimden tüketiciye kadar olan sürecini daha şeffaf hal
 
 Öğrenci ve öğretmen eşleştirme, ders rezervasyonu ve backend mimarisi üzerine geliştirilen eğitim platformu.
 
-**Focus:** Java, Spring Boot, REST API, MVC, layered architecture
+**Odak:** Java, Spring Boot, REST API, MVC, katmanlı mimari
 
 <br/>
 
 <a href="https://github.com/Aysun-Gozaydin/EduConnect">
-<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Projeyi%20G%C3%B6r-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
 </a>
 
 </td>
@@ -144,22 +147,26 @@ Gıda ürünlerinin üretimden tüketiciye kadar olan sürecini daha şeffaf hal
 <tr>
 <td width="50%" valign="top">
 
-### ⏱️ In-Memory Task Scheduler
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=In-Memory%20Task%20Scheduler&fontColor=FF9900&fontSize=19" />
+
+### ⏱️ Bellek İçi Görev Zamanlayıcısı
 
 **Java tabanlı görev zamanlayıcı**
 
 Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desenlerini kullanan backend uygulaması.
 
-**Focus:** Java, OOP, Builder Pattern, Observer Pattern
+**Odak:** Java, OOP, Builder Pattern, Observer Pattern
 
 <br/>
 
 <a href="https://github.com/Aysun-Gozaydin/in-memory-task-scheduler">
-<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Projeyi%20G%C3%B6r-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
 </a>
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=Swaply&fontColor=FF9900&fontSize=22" />
 
 ### 🛍️ Swaply
 
@@ -167,13 +174,13 @@ Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desen
 
 İkinci el ürün pazaryeri platformu için arayüz tasarımı ve sistem mimarisi üzerine hazırlanmış UI/UX tasarım projesi.
 
-**Focus:** Figma, UI/UX, user flow, system design
+**Odak:** Figma, arayüz tasarımı, kullanıcı akışı, sistem tasarımı
 
 <br/>
 
 <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/UI%20Design-0D1117?style=flat-square&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/UX%20Flow-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Aray%C3%BCz%20Tasar%C4%B1m%C4%B1-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Kullan%C4%B1c%C4%B1%20Ak%C4%B1%C5%9F%C4%B1-0D1117?style=flat-square&logoColor=FF9900" />
 
 </td>
 </tr>
@@ -181,22 +188,26 @@ Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desen
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ LMS Database Project
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=LMS%20Veritaban%C4%B1%20Projesi&fontColor=FF9900&fontSize=20" />
+
+### 🗄️ LMS Veritabanı Projesi
 
 **Öğrenci ve ders yönetimi için veritabanı projesi**
 
 Öğrenci ve ders yönetimini kapsayan ilişkisel veritabanının tasarımı ve geliştirilmesi üzerine hazırlanmış proje.
 
-**Focus:** SQL, ER diagram, relational modeling, database design
+**Odak:** SQL, ER diyagramı, ilişkisel modelleme, veritabanı tasarımı
 
 <br/>
 
 <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/ER%20Diagram-0D1117?style=flat-square&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Database%20Design-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/ER%20Diyagram%C4%B1-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Veritaban%C4%B1%20Tasar%C4%B1m%C4%B1-0D1117?style=flat-square&logoColor=FF9900" />
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0D1117&text=T-MES%20Lite&fontColor=FF9900&fontSize=22" />
 
 ### 🚆 T-MES Lite
 
@@ -204,13 +215,13 @@ Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desen
 
 Çalışanların planlı vardiyalarını görmesi, mesai başlangıç/bitiş istekleri göndermesi ve yöneticilerin onay sürecini takip etmesi için tasarlanan sistem.
 
-**Focus:** Calendar view, approval flow, role-based structure, Spring Boot
+**Odak:** Takvim görünümü, onay akışı, rol bazlı yapı, Spring Boot
 
 <br/>
 
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Workflow-0D1117?style=flat-square&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/%C4%B0%C5%9F%20Ak%C4%B1%C5%9F%C4%B1-0D1117?style=flat-square&logoColor=FF9900" />
 
 </td>
 </tr>
@@ -218,22 +229,23 @@ Bellek üzerinde görev yönetimi için geliştirilen, Builder ve Observer desen
 
 ---
 
-## Community & Leadership
+## Kampüs Temsilciliği
 
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/PythianGo-0D1117?style=for-the-badge&logoColor=FF9900" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0D1117&text=PythianGo&fontColor=FF9900&fontSize=24&desc=Kamp%C3%BCs%20Temsilcisi&descSize=13&descAlignY=72" />
 
 </td>
 <td width="70%" valign="top">
 
-### PythianGo Digital Career Platform Campus Ambassador
-
+### PythianGo Digital Career Platform  
 **İnönü Üniversitesi Kampüs Temsilcisi**
 
-Kariyer, eğitim, staj ve teknoloji odaklı fırsatları üniversite öğrencileriyle buluşturmaya yönelik kampüs temsilciliği rolü.
+Üniversite öğrencileriyle teknoloji, kariyer, eğitim ve staj odaklı fırsatları buluşturmaya yönelik kampüs temsilciliği yapıyorum.
+
+Bu rol kapsamında öğrencilere duyuruların ulaşması, etkinlik ve eğitim fırsatlarının paylaşılması, topluluk bilincinin güçlenmesi ve kariyer odaklı içeriklerin daha görünür hale gelmesi için katkı sağlamayı hedefliyorum.
 
 </td>
 </tr>
@@ -241,13 +253,15 @@ Kariyer, eğitim, staj ve teknoloji odaklı fırsatları üniversite öğrencile
 
 ---
 
-## Certificates & Learning Areas
+## Sertifikalar ve Öğrenme Alanları
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Cybersecurity
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0D1117&text=Siber%20G%C3%BCvenlik&fontColor=FF9900&fontSize=17" />
+
+<br/>
 
 **Cybersecurity Essentials**  
 The Linux Foundation, 2026
@@ -258,7 +272,9 @@ IBM, 2026
 </td>
 <td width="33%" valign="top">
 
-### Artificial Intelligence & Python
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0D1117&text=Python%20ve%20Yapay%20Zeka&fontColor=FF9900&fontSize=16" />
+
+<br/>
 
 **Python ile Yapay Zeka I**  
 Techcareer.net, 2025
@@ -272,12 +288,14 @@ BTK Akademi, 2025
 </td>
 <td width="33%" valign="top">
 
-### Career & Technology
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0D1117&text=Kariyer%20ve%20Teknoloji&fontColor=FF9900&fontSize=16" />
+
+<br/>
 
 **Garanti BBVA Genç Yeni Nesil Kariyer Okulu**  
 Teknoloji Serisi, Coderspace, 2025
 
-**PythianGo Campus Ambassador**  
+**PythianGo Kampüs Temsilciliği**  
 İnönü Üniversitesi
 
 </td>
@@ -286,32 +304,32 @@ Teknoloji Serisi, Coderspace, 2025
 
 ---
 
-## Profile Snapshot
+## Kısa Profil Özeti
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Education
+### Eğitim
 
-**Software Engineering**  
-İnönü University
+**Yazılım Mühendisliği**  
+İnönü Üniversitesi
 
 </td>
 <td width="33%" align="center">
 
-### Main Direction
+### Ana Yönelim
 
-**Backend Development**  
+**Backend Geliştirme**  
 Java, Spring Boot, REST API
 
 </td>
 <td width="33%" align="center">
 
-### Growing Interest
+### Geliştirdiğim Alan
 
-**Cybersecurity**  
-Secure systems and data protection
+**Siber Güvenlik**  
+Güvenli sistemler ve veri koruma
 
 </td>
 </tr>
@@ -323,12 +341,10 @@ Secure systems and data protection
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF9900" />
 
-### Building with structure, learning with curiosity.
-
-Backend tarafında sağlam temel, veri tarafında düzenli modelleme, siber güvenlik tarafında öğrenme merakı.
+### Düzenli sistemler kurmayı, projelerle öğrenmeyi ve kendimi adım adım geliştirmeyi seviyorum.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Profilimi%20ziyaret%20etti%C4%9Fin%20i%C3%A7in%20te%C5%9Fekk%C3%BCrler-0D1117?style=for-the-badge&logo=github&logoColor=FF9900" />
 
 </div>
