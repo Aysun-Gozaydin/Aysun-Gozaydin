@@ -573,7 +573,7 @@ Data Protection
 <br>
 
 
-## Kod yazmayı değil, sürdürülebilir sistemler oluşturmayı hedefliyorum.
+### Learning. Building. Growing.
 
 
 <br>
