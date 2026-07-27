@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0D1117&text=Aysun%20G%C3%B6zayd%C4%B1n&fontColor=FF9900&fontSize=36&fontAlignY=42&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi%20%7C%20Backend%20Geli%C5%9Ftirme%20%7C%20Siber%20G%C3%BCvenlik%20Merak%C4%B1&descAlignY=72&descSize=14" />
+<img src="./assets/dark.svg" width="100%" alt="Aysun Gözaydın GitHub Banner"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=FF9900&center=true&vCenter=true&width=820&lines=Merhaba%2C+ben+Aysun+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisiyim;Java+ve+Spring+Boot+ile+backend+geli%C5%9Ftiriyorum;SQL%2C+UML+ve+sistem+analizi+ile+projelerimi+tasarl%C4%B1yorum;Siber+g%C3%BCvenlik+temellerimi+g%C3%BC%C3%A7lendirmeye+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;Kamp%C3%BCs+temsilcili%C4%9Fi+ve+projelerle+aktif+%C3%B6%C4%9Freniyorum" />
-
-<br/><br/>
+<br><br>
 
 <a href="mailto:aysungozaydin@gmail.com">
   <img src="https://img.shields.io/badge/E--posta-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9900&labelColor=0D1117" />
 </a>
+
 <a href="https://www.linkedin.com/in/aysun-gozaydin-975707322">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF9900&labelColor=0D1117" />
 </a>
+
 <a href="https://github.com/Aysun-Gozaydin">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF9900&labelColor=0D1117" />
 </a>
