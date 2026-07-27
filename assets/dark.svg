@@ -1,1 +1,180 @@
-<svg xmlns="http://www.w3.org/2000/svg"></svg>
+<svg
+    width="1180"
+    height="610"
+    viewBox="0 0 1180 610"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+    <!-- Background -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1180" y2="610">
+        <stop offset="0%" stop-color="#030712">
+            <animate
+                attributeName="stop-color"
+                values="#030712;#0F172A;#030712"
+                dur="12s"
+                repeatCount="indefinite"/>
+        </stop>
+
+        <stop offset="100%" stop-color="#111827">
+            <animate
+                attributeName="stop-color"
+                values="#111827;#0B1120;#111827"
+                dur="12s"
+                repeatCount="indefinite"/>
+        </stop>
+    </linearGradient>
+
+    <!-- Accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+
+        <stop offset="0%" stop-color="#7C3AED">
+            <animate
+                attributeName="stop-color"
+                values="#7C3AED;#22D3EE;#10B981;#7C3AED"
+                dur="8s"
+                repeatCount="indefinite"/>
+        </stop>
+
+        <stop offset="100%" stop-color="#22D3EE">
+            <animate
+                attributeName="stop-color"
+                values="#22D3EE;#10B981;#7C3AED;#22D3EE"
+                dur="8s"
+                repeatCount="indefinite"/>
+        </stop>
+
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+        <feGaussianBlur stdDeviation="8" result="blur"/>
+        <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+    </filter>
+
+    <!-- Glass Blur -->
+    <filter id="glassBlur"
+            x="-50%"
+            y="-50%"
+            width="200%"
+            height="200%">
+        <feGaussianBlur stdDeviation="20"/>
+    </filter>
+
+    <!-- Purple Glow -->
+    <radialGradient id="purpleGlow">
+        <stop offset="0%" stop-color="#7C3AED" stop-opacity=".45"/>
+        <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Cyan Glow -->
+    <radialGradient id="cyanGlow">
+        <stop offset="0%" stop-color="#22D3EE" stop-opacity=".40"/>
+        <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Emerald Glow -->
+    <radialGradient id="emeraldGlow">
+        <stop offset="0%" stop-color="#10B981" stop-opacity=".35"/>
+        <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+    width="1180"
+    height="610"
+    rx="28"
+    fill="url(#bgGradient)" />
+
+<!-- Border -->
+
+<rect
+    x="2"
+    y="2"
+    width="1176"
+    height="606"
+    rx="26"
+    stroke="url(#accent)"
+    stroke-width="2"
+    stroke-opacity=".25"/>
+
+<!-- Animated Background Lights -->
+
+<circle
+    cx="180"
+    cy="120"
+    r="180"
+    fill="url(#purpleGlow)"
+    filter="url(#glassBlur)">
+
+    <animate
+        attributeName="cx"
+        values="180;250;180"
+        dur="14s"
+        repeatCount="indefinite"/>
+
+    <animate
+        attributeName="cy"
+        values="120;180;120"
+        dur="16s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+    cx="980"
+    cy="460"
+    r="220"
+    fill="url(#cyanGlow)"
+    filter="url(#glassBlur)">
+
+    <animate
+        attributeName="cx"
+        values="980;900;980"
+        dur="18s"
+        repeatCount="indefinite"/>
+
+    <animate
+        attributeName="cy"
+        values="460;400;460"
+        dur="15s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+    cx="600"
+    cy="300"
+    r="150"
+    fill="url(#emeraldGlow)"
+    filter="url(#glassBlur)">
+
+    <animate
+        attributeName="r"
+        values="140;180;140"
+        dur="12s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Glass Panel -->
+
+<rect
+    x="25"
+    y="25"
+    width="1130"
+    height="560"
+    rx="24"
+    fill="#FFFFFF"
+    fill-opacity="0.03"
+    stroke="#FFFFFF"
+    stroke-opacity="0.08"/>
+
+</svg>
